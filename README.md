@@ -62,7 +62,8 @@ GFG-160-Days-of-Code/
 | 1   | 2                | Arrays, Strings |
 | 2   | 1                | Searching |
 | 3   | 1                | Sorting |
-| ... | ...              | ... |
+| 19 | 1 | Recursion |
+| ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -70,7 +71,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 3 / 160 Days`
+### `Progress: 19 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
