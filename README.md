@@ -65,7 +65,8 @@ GFG-160-Days-of-Code/
 | 19 | 1 | Recursion |
 | 20 | 1 | String Rotation |
 | 21 | 1 | Sorting 0s 1s and 2s |
-| ... | ... | ... | ... | ... | ... |
+| 22 | 1 | Sorting |
+| ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -73,7 +74,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 21 / 160 Days`
+### `Progress: 22 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
