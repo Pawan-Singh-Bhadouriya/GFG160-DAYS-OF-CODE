@@ -66,7 +66,8 @@ GFG-160-Days-of-Code/
 | 20 | 1 | String Rotation |
 | 21 | 1 | Sorting 0s 1s and 2s |
 | 22 | 1 | Sorting |
-| ... | ... | ... | ... | ... | ... | ... |
+| 23 | 1 | Sorting with modified merge sort |
+| ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -74,7 +75,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 22 / 160 Days`
+### `Progress: 23 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
