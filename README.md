@@ -67,7 +67,8 @@ GFG-160-Days-of-Code/
 | 21 | 1 | Sorting 0s 1s and 2s |
 | 22 | 1 | Sorting |
 | 23 | 1 | Sorting with modified merge sort |
-| ... | ... | ... | ... | ... | ... | ... | ... |
+| 24 | 1 | Overlaping intervals |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -75,7 +76,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 23 / 160 Days`
+### `Progress: 24 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
