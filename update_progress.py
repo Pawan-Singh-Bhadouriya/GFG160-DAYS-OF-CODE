@@ -28,4 +28,4 @@ def update_readme(day, problems_solved, topics):
     print(f"Updated progress to Day {day} successfully!")
 
 # Example usage:
-update_readme(day=25, problems_solved=1, topics="Insert intervals")
+update_readme(day=26, problems_solved=1, topics="Non-Overlapping Intervals")

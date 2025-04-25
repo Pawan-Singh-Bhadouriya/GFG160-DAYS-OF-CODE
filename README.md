@@ -70,7 +70,8 @@ GFG-160-Days-of-Code/
 | 24 | 1 | Overlaping intervals |
 | 25 | 1 | Insert intervals |
 | 25 | 1 | Insert intervals |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 26 | 1 | Non-Overlapping Intervals |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -78,7 +79,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 25 / 160 Days`
+### `Progress: 26 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
