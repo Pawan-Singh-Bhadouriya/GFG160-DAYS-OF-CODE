@@ -72,7 +72,8 @@ GFG-160-Days-of-Code/
 | 25 | 1 | Insert intervals |
 | 26 | 1 | Non-Overlapping Intervals |
 | 27 | 1 | Sort 0s 1s and 2s |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 27 | 1 | Merge Without Extra Space |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
