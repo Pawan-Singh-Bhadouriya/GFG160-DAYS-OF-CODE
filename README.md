@@ -75,7 +75,8 @@ GFG-160-Days-of-Code/
 | 27 | 1 | Merge Without Extra Space |
 | 28 | 1 | Number of Occurance |
 | 29 | 1 | Sorted and rotated minimum |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 30 | 1 | Seach in Rotated Sorted Array |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -83,7 +84,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 29 / 160 Days`
+### `Progress: 30 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
