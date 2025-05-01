@@ -77,7 +77,8 @@ GFG-160-Days-of-Code/
 | 29 | 1 | Sorted and rotated minimum |
 | 30 | 1 | Seach in Rotated Sorted Array |
 | 31 | 1 | Peak Element |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 32 | 1 | kth Element of Two Arrays |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -85,7 +86,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 31 / 160 Days`
+### `Progress: 32 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
