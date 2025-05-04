@@ -80,7 +80,8 @@ GFG-160-Days-of-Code/
 | 32 | 1 | kth Element of Two Arrays |
 | 33 | 1 | Aggressive Cows |
 | 34 | 1 | Allocate Minimum Pages |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 35 | 1 | Kth Missing Element |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -88,7 +89,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 34 / 160 Days`
+### `Progress: 35 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
