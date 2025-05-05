@@ -81,7 +81,8 @@ GFG-160-Days-of-Code/
 | 33 | 1 | Aggressive Cows |
 | 34 | 1 | Allocate Minimum Pages |
 | 35 | 1 | Kth Missing Element |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 36 | 1 | Spiral Traversing a Matrix |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -89,7 +90,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 35 / 160 Days`
+### `Progress: 36 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
