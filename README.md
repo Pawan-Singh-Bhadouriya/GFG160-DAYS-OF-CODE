@@ -82,7 +82,8 @@ GFG-160-Days-of-Code/
 | 34 | 1 | Allocate Minimum Pages |
 | 35 | 1 | Kth Missing Element |
 | 36 | 1 | Spiral Traversing a Matrix |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 37 | 1 | Rotate a Matrix 90 degree anticlockwise |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -90,7 +91,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 36 / 160 Days`
+### `Progress: 37 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
