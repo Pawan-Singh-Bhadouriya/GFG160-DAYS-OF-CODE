@@ -83,7 +83,8 @@ GFG-160-Days-of-Code/
 | 35 | 1 | Kth Missing Element |
 | 36 | 1 | Spiral Traversing a Matrix |
 | 37 | 1 | Rotate a Matrix 90 degree anticlockwise |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 38 | 1 | Search in a Row-Column sorted matrix |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -91,7 +92,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 37 / 160 Days`
+### `Progress: 38 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
