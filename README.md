@@ -85,7 +85,8 @@ GFG-160-Days-of-Code/
 | 37 | 1 | Rotate a Matrix 90 degree anticlockwise |
 | 38 | 1 | Search in a Row-Column sorted matrix |
 | 39 | 1 | Search in a row wised sorted matrix |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 40 | 1 | Search in sorted matrix |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -93,7 +94,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 39 / 160 Days`
+### `Progress: 40 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
