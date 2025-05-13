@@ -88,7 +88,8 @@ GFG-160-Days-of-Code/
 | 40 | 1 | Search in sorted matrix |
 | 41 | 1 | Set Matrix Zeroes |
 | 43 | 1 | Count pair with given sum |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 44 | 1 | Find all triplet with 0 sum |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -96,7 +97,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 43 / 160 Days`
+### `Progress: 44 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
