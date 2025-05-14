@@ -89,7 +89,8 @@ GFG-160-Days-of-Code/
 | 41 | 1 | Set Matrix Zeroes |
 | 43 | 1 | Count pair with given sum |
 | 44 | 1 | Find all triplet with 0 sum |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 45 | 1 | Intersection of two arrays with duplicate elements |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -97,7 +98,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 44 / 160 Days`
+### `Progress: 45 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
