@@ -90,7 +90,8 @@ GFG-160-Days-of-Code/
 | 43 | 1 | Count pair with given sum |
 | 44 | 1 | Find all triplet with 0 sum |
 | 45 | 1 | Intersection of two arrays with duplicate elements |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 46 | 1 | Union of arrays with duplicates |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -98,7 +99,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 45 / 160 Days`
+### `Progress: 46 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
