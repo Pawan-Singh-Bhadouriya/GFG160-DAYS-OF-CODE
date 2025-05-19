@@ -93,7 +93,8 @@ GFG-160-Days-of-Code/
 | 46 | 1 | Union of arrays with duplicates |
 | 47 | 1 | Longest Consecutive subsequence |
 | 48 | 1 | Print Anagram Together |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 50 | 1 | Count Subarrays With Given XOR |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -101,7 +102,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 48 / 160 Days`
+### `Progress: 50 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
