@@ -95,7 +95,9 @@ GFG-160-Days-of-Code/
 | 48 | 1 | Print Anagram Together |
 | 50 | 1 | Count Subarrays With Given XOR |
 | 51 | 1 | Count all triplets with given sum in sorted array |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 52 | 1 | Count Pair whose sum is less than target |
+| 53 | 1 | Sum pair closest to target |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -103,7 +105,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 51 / 160 Days`
+### `Progress: 53 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
