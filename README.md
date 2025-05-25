@@ -99,7 +99,8 @@ GFG-160-Days-of-Code/
 | 53 | 1 | Sum pair closest to target |
 | 54 | 1 | Pair With Given Sum in a Sorted Array |
 | 55 | 1 | Count the number of possible triangles |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 56 | 1 | Indexes of Subarray Sum |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -107,7 +108,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 55 / 160 Days`
+### `Progress: 56 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
