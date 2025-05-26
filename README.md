@@ -100,7 +100,8 @@ GFG-160-Days-of-Code/
 | 54 | 1 | Pair With Given Sum in a Sorted Array |
 | 55 | 1 | Count the number of possible triangles |
 | 56 | 1 | Indexes of Subarray Sum |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 57 | 1 | Count distinct element in every window |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -108,7 +109,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 56 / 160 Days`
+### `Progress: 57 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
