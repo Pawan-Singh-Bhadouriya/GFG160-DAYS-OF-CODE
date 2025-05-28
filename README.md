@@ -102,7 +102,8 @@ GFG-160-Days-of-Code/
 | 56 | 1 | Indexes of Subarray Sum |
 | 57 | 1 | Count distinct element in every window |
 | 58 | 1 | Longest substring with distinct characters |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 59 | 1 | Trapping Rain Water |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -110,7 +111,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 58 / 160 Days`
+### `Progress: 59 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
