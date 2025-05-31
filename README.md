@@ -104,7 +104,9 @@ GFG-160-Days-of-Code/
 | 58 | 1 | Longest substring with distinct characters |
 | 59 | 1 | Trapping Rain Water |
 | 60 | 1 | Container With Most Water |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 61 | 1 | Equilibrium Point |
+| 62 | 1 | Longest Subarray With Sum K |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ✔️ **Table updated regularly**
 
@@ -112,7 +114,7 @@ GFG-160-Days-of-Code/
 
 ## 📈 Progress
 
-### `Progress: 60 / 160 Days`
+### `Progress: 62 / 160 Days`
 
 ![Progress](https://progress-bar.dev/3/?scale=160&title=Completed&width=500&color=00c853)
 
