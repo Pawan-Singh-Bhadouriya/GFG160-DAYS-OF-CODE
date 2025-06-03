@@ -28,4 +28,4 @@ def update_readme(day, problems_solved, topics):
     print(f"Updated progress to Day {day} successfully!")
 
 # Example usage:
-update_readme(day=64, problems_solved=1, topics="Product Array Puzzle")
+update_readme(day=66, problems_solved=1, topics="Reverse a LinkedList")
