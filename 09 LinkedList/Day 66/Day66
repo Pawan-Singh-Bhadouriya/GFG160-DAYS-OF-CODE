@@ -1,6 +1,8 @@
 using namespace std;
 #include <bits/stdc++.h>
-// Day 65 - Solution
+// Day 66 - Solution
+
+
 
 struct Node
 {
@@ -12,7 +14,7 @@ struct Node
         next = NULL;
     }
 
-}
+};
 
 int
 len(Node *head)
